@@ -1,3 +1,4 @@
+![Screenshot](https://user-images.githubusercontent.com/76856769/124358355-7eefb600-dc52-11eb-8546-0c1109783bc6.png)
 # my-dwm-configure                                                                                                       
 安装dwm前你需要xorg，dmenu，以及一个终端                                                                                     
                                                                                                                          

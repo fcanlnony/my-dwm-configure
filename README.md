@@ -39,4 +39,4 @@ Alt+space（空格）切换为默认的窗口模式
 Alt+Shift+space（空格）切换当前窗口与主窗口位置                                                                 
 Alt+Shift+g当前窗口全屏                                                                                                         
 Alt+1/2/3/4/5/6/7/8/9切换1/2/3/4/5/6/7/8/9号工作区                                                                          
-Alt+e离开dwm                                                                                                            
+Alt+Shift+e离开dwm                                                                                                            

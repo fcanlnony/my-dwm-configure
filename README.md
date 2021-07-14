@@ -9,7 +9,7 @@ sudo make clean install
 编辑.xinitrc并添加exec dwm                                                                                                 
                                                                                                                          
 我使用的状态栏是                                                                                                           
-slstatus ： https://github.com/LLluma/slstatus                                                                           
+slstatus : https://tools.suckless.org/slstatus/                                                                     
                                                                                                                          
 默认的程序启动器                                                                                                           
 dmenu                                                                                                                   

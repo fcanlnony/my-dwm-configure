@@ -34,7 +34,7 @@ Alt+h/Alt+l增大或减小窗口
 Alt+Shift+Enter把当前窗口设置为主窗口                                                                                       
 Alt+Tab查看窗口                                                                                                           
 Alt+Shift+q关闭窗口                                                                                                       
-Alt+Shift+w/s/e三种窗口模式                                                                                               
+Alt+w/s/e三种窗口模式                                                                                               
 Alt+space（空格）切换为默认的窗口模式  
 Alt+Shift+space（空格）切换当前窗口与主窗口位置                                                                 
 Alt+Shift+g当前窗口全屏                                                                                                         

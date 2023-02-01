@@ -27,7 +27,7 @@ dwm-attachdirection : https://dwm.suckless.org/patches/attachdirection/
                                                                                                                          
 按键操作：                                                                                                                 
 Alt+d打开程序启动器                                                                                                        
-Alt+d打开终端                                                                                                             
+Alt+Enter打开终端                                                                                                             
 Alt+b关闭上面的状态栏                                                                                                       
 Alt+j/Alt+k切换窗口指定                                                                                                   
 Alt+u/Alt+i修改窗口为横切或竖切                                                                                             
